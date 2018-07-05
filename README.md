@@ -1,1 +1,1 @@
-This calculator is part of OdinProject
+This calculator is part of OdinProject course
